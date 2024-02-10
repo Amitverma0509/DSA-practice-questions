@@ -57,11 +57,11 @@ to get Started with practising DSA questions, simply explore the repository to f
 
 I have used Java but you can use other language for example:-
 <ul>
-<li><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="images/C-logo.png" height="60" width="60"></a></li>
-<li><a href="https://cplusplus.com/"><img src="images/Cpp.png" height="60" width="60"></a></li>
-<li><a href="https://www.javascript.com/"><img src="images/Javascript.png" height="60" width="60"></a></li>
-<li><a href="https://www.python.org/"><img src="images/Python.png" height="60" width="60"></a></li>
-<li><a href="https://www.ruby-lang.org/en/"><img src="images/Ruby.png" height="60" width="60"></a></li>
+<li><a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="images/C-logo.png" height="60" width="60"></a></li>
+<li><a href="https://cplusplus.com/" target="_blank"><img src="images/Cpp.png" height="60" width="60"></a></li>
+<li><a href="https://www.javascript.com/" target="_blank"><img src="images/Javascript.png" height="60" width="60"></a></li>
+<li><a href="https://www.python.org/" target="_blank"><img src="images/Python.png" height="60" width="60"></a></li>
+<li><a href="https://www.ruby-lang.org/en/" target="_blank"><img src="images/Ruby.png" height="60" width="60"></a></li>
 </ul>
 <br />
 
