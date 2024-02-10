@@ -61,7 +61,7 @@ I have used Java but you can use other language for example:-
 <li><img src="images/Cpp.png" height="60" width="60"></li>
 <li><img src="images/Javascript.png" height="60" width="60"></li>
 <li><img src="images/Python.png" height="60" width="60"></li>
-<li><img src="images/Ruby-Logo.png" height="60" width="60"></li>
+<li><img src="images/Ruby.png" height="60" width="60"></li>
 </ul>
 <br />
 
