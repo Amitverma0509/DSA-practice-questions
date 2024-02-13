@@ -23,7 +23,7 @@
 - [WAP to enter days and convert it into months and days.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20days%20and%20convert%20it%20into%20months%20and%20days.java)
 - [WAP to input a number and print 75% of that number.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20number%20and%20print%2075%25%20of%20that%20number.java)
 - [WAP to calculate the area of triangle.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20calculate%20the%20area%20of%20triangle.java)
-- [WAP to calculate the area of circle.]
+- [WAP to calculate the area of circle.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20calculate%20the%20area%20of%20circle.java)
 - [WAP to print 1 - 10 numbers](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%201%20-%2010%20numbers.java)
 - [WAP to input an array and print it.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20an%20array%20and%20print%20it.java)
 - [WAP to print the entered name three times on the screen on separate lines using a single printing statement.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20the%20entered%20name%20three%20times%20on%20the%20screen%20on%20separate%20lines%20using%20a%20single%20printing%20statement.java)
