@@ -1,52 +1,52 @@
 ## All Questions 
-- [WAP to input two numbers and print the sum.] 
-- [WAP to input two numbers and print their subtraction.]
-- [WAP to input three numbers and print the product of those numbers.]
-- [WAP to print the average of four numbers.]
-- [WAP to input a number and find it's square.]
-- [WAP to enter two numbers and find their Sum, Difference, Quotient and print the output.]
+- [WAP to input two numbers and print the sum.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20numbers%20and%20print%20the%20sum.java)
+- [WAP to input two numbers and print their subtraction.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20numbers%20and%20print%20their%20subtraction.java)
+- [WAP to input three numbers and print the product of those numbers.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20three%20numbers%20and%20print%20the%20product%20of%20those%20numbers.java)
+- [WAP to print the average of four numbers.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20the%20average%20of%20four%20numbers.java)
+- [WAP to input a number and find it's square.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20number%20and%20find%20it's%20square.java)
+- [WAP to enter two numbers and find their Sum, Difference, Quotient and print the output.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20two%20numbers%20and%20find%20their%20Sum%2C%20Difference%2C%20Quotient%20and%20print%20the%20output.java)
 - [WAP  to enter word. ex-if input is github repo the output is github.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20%20to%20enter%20word.%20ex-if%20input%20is%20github%20repo%20the%20output%20is%20github.java)
-- [WAP to enter full name.] 
-- [WAP to enter char.] 
-- [WAP to get largest among 2 number.] 
-- [WAP to get largest among three number using nested loop.]
-- [WAP to get weekend using if else.]
-- [WAP to get weekend using switch case.]
-- [WAP to print the following pattern. (using spaces)]
-- [WAP to get a person is eligible to vote or not.]
-- [WAP enter salary of a person and find HRA, DA, PF(click to get information)] 
-- [WAP to print your name, class, city.]
-- [WAP to enter five subjects marks and calculate average and print them as follows(click to get more info)]
-- [WAP to input two numbers and print their remainder.]
-- [WAP to enter principle,rate and time in years and find the simple interest.]
-- [WAP to enter time in seconds and convert it in minutes and seconds.]
-- [WAP to enter days and convert it into months and days.]
-- [WAP to input a number and print 75% of that number.]
-- [WAP to calculate the area of triangle.]
+- [WAP to enter full name.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20full%20name.java)
+- [WAP to enter char.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20char.java)
+- [WAP to get largest among 2 number.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20the%20larger%20number%20between%20two%20numbers.java)
+- [WAP to get largest among three number using nested loop.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20the%20largest%20number%20among%20three%20numbers.java)
+- [WAP to get weekend using if else.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20get%20weekend%20using%20if%20else.java)
+- [WAP to get weekend using switch case.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20get%20weekend%20using%20switch%20case.java)
+- [WAP to print the following pattern. (using spaces)](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20the%20following%20pattern.java)
+- [WAP to get a person is eligible to vote or not.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20get%20a%20person%20is%20eligible%20to%20vote%20or%20not.java)
+- [WAP enter salary of a person and find HRA, DA, PF(click to get information)](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20enter%20salary%20of%20a%20person%20and%20find%20HRA%2C%20DA%2C%20PF.java)
+- [WAP to print your name, class, city.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20your%20name%2C%20class%2C%20city.java)
+- [WAP to enter five subjects marks and calculate average and print them as follows(click to get more info)](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20five%20subjects%20marks%20and%20calculate%20average%20and%20print%20them%20as%20follows.java)
+- [WAP to input two numbers and print their remainder.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20numbers%20and%20print%20their%20remainder.java)
+- [WAP to enter principle,rate and time in years and find the simple interest.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20principle%2Crate%20and%20time%20in%20years%20and%20find%20the%20simple%20interest.java)
+- [WAP to enter time in seconds and convert it in minutes and seconds.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20time%20in%20seconds%20and%20convert%20it%20in%20minutes%20and%20seconds.java)
+- [WAP to enter days and convert it into months and days.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20enter%20days%20and%20convert%20it%20into%20months%20and%20days.java)
+- [WAP to input a number and print 75% of that number.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20number%20and%20print%2075%25%20of%20that%20number.java)
+- [WAP to calculate the area of triangle.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20calculate%20the%20area%20of%20triangle.java)
 - [WAP to calculate the area of circle.]
-- [WAP to print 1 - 10 numbers]
-- [WAP to input an array and print it.]
-- [WAP to print the entered name three times on the screen on separate lines using a single printing statement.]
-- [WAP to swap the values of two variables without using third variable.]
-- [WAP to swap the values of two variables using third variable.]
-- [WAP to print the larger number between two numbers.]
-- [WAP to print the largest number among three numbers.]
-- [WAP to input a character and check whether it is a vowel or constant.]
-- [WAP to input a character and tell the type of vowel.]
-- [WAP to find whether a year is leap year or not.]
-- [WAP to check whether a number is even or odd.]
-- [WAP to print 1 to 10 number. (using for,while)]
-- [WAP to print INDIA 10 times. (using for,while)]
-- [WAP to print 10 numbers in reverse order with a difference of 2(using for,while)]
-- [WAP to input a number and print factorial of a number.]
-- [WAP to input an array and print the number of elements.]
-- [WAP to input an array and print the sum of elements.]
-- [WAP to input two arrays and print their addition.]
-- [WAP to input a matrix and print it.]
-- [WAP to input a matrix and print the number of elements.]
-- [WAP to input a matrix and print the sum of elements.]
-- [WAP to input a matrix and print it's transpose.]
-- [WAP to input two matrices and print their addition.]
-- [WAP to input two matrices and print their subtraction.]
-- [WAP to input two matrices and print their product.]
-- [WAP to input a matrix and print the diagonal elements.]
+- [WAP to print 1 - 10 numbers](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%201%20-%2010%20numbers.java)
+- [WAP to input an array and print it.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20an%20array%20and%20print%20it.java)
+- [WAP to print the entered name three times on the screen on separate lines using a single printing statement.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20the%20entered%20name%20three%20times%20on%20the%20screen%20on%20separate%20lines%20using%20a%20single%20printing%20statement.java)
+- [WAP to swap the values of two variables without using third variable.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20swap%20the%20values%20of%20two%20variables%20without%20using%20third%20variable.java)
+- [WAP to swap the values of two variables using third variable.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20swap%20the%20values%20of%20two%20variables%20using%20third%20variable.java)
+- [WAP to print the larger number between two numbers.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20get%20largest%20among%202%20number.java)
+- [WAP to print the largest number among three numbers.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20get%20largest%20among%20three%20number%20using%20nested%20loop.java)
+- [WAP to input a character and check whether it is a vowel or constant.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20character%20and%20check%20whether%20it%20is%20a%20vowel%20or%20constant.java)
+- [WAP to input a character and tell the type of vowel.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20character%20and%20tell%20the%20type%20of%20vowel.java)
+- [WAP to find whether a year is leap year or not.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20find%20whether%20a%20year%20is%20leap%20year%20or%20not.java)
+- [WAP to check whether a number is even or odd.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20check%20whether%20a%20number%20is%20even%20or%20odd.java)
+- [WAP to print 1 to 10 number. (using for,while)](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%201%20to%2010%20number.%20(using%20for%2Cwhile).java)
+- [WAP to print INDIA 10 times. (using for,while)](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%20INDIA%2010%20times.%20(using%20for%2Cwhile).java)
+- [WAP to print 10 numbers in reverse order with a difference of 2(using for,while)](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20print%2010%20numbers%20in%20reverse%20order%20with%20a%20difference%20of%202(using%20for%2Cwhile).java)
+- [WAP to input a number and print factorial of a number.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20number%20and%20print%20factorial%20of%20a%20number.java)
+- [WAP to input an array and print the number of elements.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20an%20array%20and%20print%20the%20number%20of%20elements.java)
+- [WAP to input an array and print the sum of elements.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20an%20array%20and%20print%20the%20sum%20of%20elements.java)
+- [WAP to input two arrays and print their addition.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20arrays%20and%20print%20their%20addition.java)
+- [WAP to input a matrix and print it.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20matrix%20and%20print%20it.java)
+- [WAP to input a matrix and print the number of elements.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20matrix%20and%20print%20the%20number%20of%20elements.java)
+- [WAP to input a matrix and print the sum of elements.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20matrix%20and%20print%20the%20sum%20of%20elements.java)
+- [WAP to input a matrix and print it's transpose.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20matrix%20and%20print%20it's%20transpose.java)
+- [WAP to input two matrices and print their addition.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20matrices%20and%20print%20their%20addition.java)
+- [WAP to input two matrices and print their subtraction.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20matrices%20and%20print%20their%20subtraction.java)
+- [WAP to input two matrices and print their product.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20two%20matrices%20and%20print%20their%20product.java)
+- [WAP to input a matrix and print the diagonal elements.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20to%20input%20a%20matrix%20and%20print%20the%20diagonal%20elements.java)
