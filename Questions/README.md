@@ -5,7 +5,7 @@
 - [WAP to print the average of four numbers.]
 - [WAP to input a number and find it's square.]
 - [WAP to enter two numbers and find their Sum, Difference, Quotient and print the output.]
-- [WAP  to enter word. ex-if input is github repo the output is github.] 
+- [WAP  to enter word. ex-if input is github repo the output is github.](https://github.com/Amitverma0509/DSA-practice-questions/blob/main/Solutions/WAP%20%20to%20enter%20word.%20ex-if%20input%20is%20github%20repo%20the%20output%20is%20github.java)
 - [WAP to enter full name.] 
 - [WAP to enter char.] 
 - [WAP to get largest among 2 number.] 
