@@ -12,7 +12,7 @@ A repo for all the questions for dsa from easy level to hard level.
 <a href=""><!-- repo link --><strong>Explore the repository »</strong></a>
 <br />
 <br />
-<a href="(https://github.com/Amitverma0509/DSA-practice-questions/tree/main/Questions)">View Questions</a>
+<a href="https://github.com/Amitverma0509/DSA-practice-questions/tree/main/Questions">View Questions</a>
 .
 <a href="https://github.com/Amitverma0509/DSA-practice-questions/issues">Report Issue</a>
 .
